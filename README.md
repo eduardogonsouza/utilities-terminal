@@ -237,32 +237,6 @@ O sistema inclui tratamento robusto de erros para:
 - Para demonstrações acadêmicas
 - Em redes confiáveis
 
-## 🤝 Contribuindo
-
-Este é um projeto educacional. Sugestões e melhorias são bem-vindas:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature
-3. Faça commit das mudanças
-4. Faça push para a branch
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto é desenvolvido para fins educacionais no âmbito do UniSenac.
-
-## 👥 Autores
-
-Desenvolvido como projeto educacional para demonstração de conceitos de programação em rede.
-
-## 📞 Suporte
-
-Para dúvidas ou problemas:
-
-- Verifique o arquivo `relatorio.md` para detalhes técnicos
-- Consulte os logs do servidor
-- Verifique as dependências instaladas
-
 ---
 
 _Tech UniSenac Server - Sistema educacional de servidor Telnet_
